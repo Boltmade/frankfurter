@@ -8,6 +8,10 @@ You can download the SVG images and directly use them in your own site or you ca
 
 * [https://raw.githubusercontent.com/Boltmade/frankfurter/master/frankfurter.svg](https://raw.githubusercontent.com/Boltmade/frankfurter/master/frankfurter.svg)
 
+### Sketch
+
+[Sketch](http://bohemiancoding.com/sketch/) users can [download our asset file](https://raw.githubusercontent.com/Boltmade/frankfurter/master/frankfurter-menu.sketch) for use within that application.
+
 ## Customisation
 
 The various path elements of the SVG are identified by ID properties so if you inline the SVG into your DOM you can style the various pieces with your CSS.

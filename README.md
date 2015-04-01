@@ -1,5 +1,7 @@
 # The Frankfurter
 
+For more information on the process of creating this icon, read our [blog post](http://www.boltmade.com/blog/process/the-frankfurter) on the [Boltmade.com](http://boltmade.com/) blog.
+
 ## Usage
 
 You can download the SVG images and directly use them in your own site or you can refer to the main SVG directly within your source:
